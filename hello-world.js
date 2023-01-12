@@ -37,3 +37,10 @@ while (i <= limit) {
 }
 
 console.log("Après la boucle");
+
+console.log("Début du script");
+for (let i = 30; i < 33; i++) {
+  // affiche les nombres de 0 a 9
+  console.log(i);
+}
+// console.log("Fin du script");
